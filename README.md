@@ -50,16 +50,16 @@
 
 ### 云计算专业
 http://click.aliyun.com/m/47628 
-![云计算专业](https://raw.githubusercontent.com/jzaicn/JackCloudDrive/master/doc/ad_img/%E4%BA%91%E8%AE%A1%E7%AE%97%E4%B8%93%E4%B8%9A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![云计算专业](https://raw.githubusercontent.com/jzaicn/JackCloudDrive/master/doc/ad_img/cloud_computing.png)
 
 ### 大数据开发专业
 http://click.aliyun.com/m/47789 
-![大数据开发专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E4%B8%93%E4%B8%9A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![大数据开发专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/big_data_develop.png)
 
 ### 大数据分析专业
 http://click.aliyun.com/m/47709 
-![大数据分析专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%93%E4%B8%9A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![大数据分析专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/big_data_analyze.png)
 
 ### 云安全专业
 http://click.aliyun.com/m/47869
-![云安全专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/%E4%BA%91%E5%AE%89%E5%85%A8%E4%B8%93%E4%B8%9A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![云安全专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/cloud_security.png)
