@@ -27,6 +27,15 @@
   - 首先。廉价，OSS的下载流量按量计费大概是20M/0.01元，上传不收钱，只要有足够硬盘（存储空间，又叫资源包，我们买9块钱一年40GB的优惠套餐）。
   - 第二。对于长久存储，不下载不收钱。当我们确定长久都不使用，还可以使用OSS的低频存储或者归档存储，价格低廉，满足企业级二十年以上存储的需要。用户甚至企业，都无需考虑磁盘呀，存储介质呀，定时检测数据丢失情况这些问题（只需要掏腰包，阿里云帮你包办这一切）。我就喜欢这么简单粗暴的方案。
   - 第三。存储作为云计算，硬件虚拟化一个非常重要的环节，是阿里云以及各大云计算平台的基础，经受得住这么多业务的考验，稳定而且高效。文档里说高达99.999999999%的数据可靠性，一共有一二三。。个九，总之很稳定啦。如果我们考虑多备结构的话，相当于数据的可靠性达到了20个9的稳定级。反正我是不打算考虑双备了（懒）。
+  - 第四。关于“大”的需求，阿里云资源包是分区域购买的，我们考虑大这个因素可以分开在国内各个地域购买资源包，到时候创建空间的时候就可以重复利用，至于网络速度，国内连接都是相对较快的，如果买的是国外或特殊地区的资源包，有可能访问不到，就暂时不考虑。各地资源包目前是（9元/年/40G），叠加总量大概是极限（9元/年/40G）* 7个国内区域 = 280G，作为平时使用我觉得足够了。更多应该考虑归档存储。
+2. 同步选用：C# + OSS SDK
+  - 同步，即数据上传、下载的访问入口，新型C# Core 2.0已经非常强大，兼容多个平台PC、IOS、Android、Web，程序员嘛，我优先考虑 命令行 + 丑陋的界面（美术细胞负数）。
+  - 阿里云OSS，提供大量SDK，对接各种语言，实在不行我们以后换。这就是为什么把文字写在Github先，方便反悔~(￣▽￣)~ 。
+3. （x）在线处理、预览、查找：OSS + Html + js
+4. （x）快速查找文件：阿里云函数
+5. （x）登陆管理：RAM（Resource Access Management 访问控制）
+
+后三点咱们暂时先不考虑，能自动同步其实已经帮到工作很大忙了。一下子考虑太远容易闪着腰，咱们点到为止，后续继续更新这部分选型及实现。
 
 
 # 广告
@@ -38,25 +47,8 @@
 
 所以，阿里云课程，了解一下？
 
-### 云计算专业
-http://click.aliyun.com/m/47628 
+云计算专业 | 大数据开发专业 | 大数据分析专业 | 云安全专业
+------------ | -------------
+http://click.aliyun.com/m/47628 | http://click.aliyun.com/m/47789 | http://click.aliyun.com/m/47709 | http://click.aliyun.com/m/47869
+![云计算专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/cloud_computing.png) | ![大数据开发专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/big_data_develop.png) | ![大数据分析专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/big_data_analyze.png) | ![云安全专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/cloud_security.png)
 
-![云计算专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/cloud_computing.png)
-
-### 大数据开发专业
-
-http://click.aliyun.com/m/47789 
-
-![大数据开发专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/big_data_develop.png)
-
-### 大数据分析专业
-
-http://click.aliyun.com/m/47709 
-
-![大数据分析专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/big_data_analyze.png)
-
-### 云安全专业
-
-http://click.aliyun.com/m/47869
-
-![云安全专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/cloud_security.png)
