@@ -49,6 +49,6 @@
 
 云计算专业 | 大数据开发专业 | 大数据分析专业 | 云安全专业
 ------------ | ------------- | ------------- | -------------
-http://click.aliyun.com/m/47628 | http://click.aliyun.com/m/47789 | http://click.aliyun.com/m/47709 | http://click.aliyun.com/m/47869
+[云计算专业](http://click.aliyun.com/m/47628) | [大数据开发专业](http://click.aliyun.com/m/47789) | [大数据分析专业](http://click.aliyun.com/m/47709) | [云安全专业](http://click.aliyun.com/m/47869)
 ![云计算专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/cloud_computing.png) | ![大数据开发专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/big_data_develop.png) | ![大数据分析专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/big_data_analyze.png) | ![云安全专业](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/ad_img/cloud_security.png)
 
