@@ -1,5 +1,9 @@
-# JackCloudDrive
-尝试用阿里云打造价格低廉的个人云盘
+# JackCloudDrive 导言
+尝试用阿里云打造价格低廉的个人云盘。
+
+每天我会花1~2小时来更新，希望大家支持。完结后我会归纳好转到博客里面，毕竟现在写的有可能某天觉得自己好笨，就重构（推倒重来）了。
+
+[博客链接：https://www.cnblogs.com/Again](https://www.cnblogs.com/Again)
 
 # 目录
 [需求 （day01 2018-5-7）](https://github.com/jzaicn/JackCloudDrive/blob/master/doc/chapter01_requirement.md)
