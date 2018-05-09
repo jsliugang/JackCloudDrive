@@ -18,10 +18,12 @@
 
 同时我们开发也要习惯，在运动中掌握变化（说人话，做的设计时常打脸），所以不能一下子做太远设计，尤其是经验不丰富的时候。保持好一个好的心态，平稳地推进项目，既要有稳定的部分，又要有创新之处，保持时刻向前进步，而不要故步自封。
 
+![阿里云官网](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/img/aliyun_index.png)
+
 # 布置基础措施 （day03 2018-5-9）
 今天，咱们要给工作的开展布置一些基础设施，譬如OSS的申请，阿里云账号的开通等。
-1. 当然是注册个阿里云账号啦 https://www.aliyun.com/
-2. 然后立马付钱搞起oss https://www.aliyun.com/product/oss 买一个地区资源包譬如华南
+1. 当然是注册个阿里云账号啦 https://www.aliyun.com/ 然后领一波优惠券先 https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=f9pa9mwb&utm_source=f9pa9mwb 
+2. 然后享受下阿里云的春风，免费体验oss https://free.aliyun.com/ntms/free/personal.html?handle=true 选择一个地区资源包譬如华南
 3. 喜欢的话可以买一个域名，现在有很多1块钱首年的域名，记得国内注册域名绑定空间等要备案哦。关于备案可以到云市场买9.9的建站，做个博客或者个人简历什么的，绑定下域名就可以通过审核了。
 4. 在创建oss服务的过程中，会要求创建账户权限，其实就是AccessKey。
 5. 当然我们不能直接使用这么高级的AccessKey一旦流露出去会很麻烦
