@@ -6,8 +6,10 @@
 [博客链接：https://www.cnblogs.com/Again](https://www.cnblogs.com/Again)
 
 # 目录
+
 [需求 （day01 2018-5-7）](https://github.com/jzaicn/JackCloudDrive/blob/master/doc/chapter01_requirement.md)
-[选型 （day01 2018-5-8）](https://github.com/jzaicn/JackCloudDrive/blob/master/doc/chapter02_lectotype.md)
+
+[选型 （day02 2018-5-8）](https://github.com/jzaicn/JackCloudDrive/blob/master/doc/chapter02_lectotype.md)
 
 # 一点感想
 第三天，咱们如约而至。
