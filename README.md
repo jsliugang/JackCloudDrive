@@ -25,7 +25,8 @@
 同步云盘，同步云盘首要的第一功能就是监测系统文件变化，然后才能触发增加、修改或删除操作。
 
 于是乎我们今天的计划是：
-![检测文件变化](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/img/检测文件变化.png)
+![检测文件变化](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/img/%E6%A3%80%E6%B5%8B%E6%96%87%E4%BB%B6%E5%8F%98%E5%8C%96.PNG)
+
 
 ## 实现文件更改监控
 ``` 
@@ -75,12 +76,13 @@ namespace DemoFileWatcher
 ## 实现结果
 轻松实现这个功能，耗费了不多时间。
 
-![实现文件修改监控](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/img/实现文件修改监控.png)
+![实现文件修改监控](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/img/%E5%AE%9E%E7%8E%B0%E6%96%87%E4%BB%B6%E4%BF%AE%E6%94%B9%E7%9B%91%E6%8E%A7.PNG)
 
 但是这时候我的心中升起了一份疑虑，如果拷贝大文件，到底是什么时候感知到呢？
 如果我在这个时候去上传，会不会引发意外？
 
-![测试触发时间](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/img/测试触发时间.png)
+![测试触发时间](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/img/%E6%B5%8B%E8%AF%95%E8%A7%A6%E5%8F%91%E6%97%B6%E9%97%B4.PNG)
+
 
 这个问题，我们明天再解答。
 代码非常简陋，没有trycatch 也没有任何测试，我们不着急，千里之行始于足下。
