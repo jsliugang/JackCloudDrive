@@ -20,6 +20,13 @@
 # hello world
 今天依然来赴约
 
+# day04 文件夹改动监测  （2018-5-10）
+
+同步云盘，同步云盘首要的第一功能就是监测系统文件变化，然后才能触发增加、修改或删除操作。
+
+于是乎我们今天的计划是：
+![检测文件变化](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/img/检测文件变化.png)
+
 
 
 
