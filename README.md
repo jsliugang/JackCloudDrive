@@ -11,6 +11,9 @@
 
 [选型 （day02 2018-5-8）](https://github.com/jzaicn/JackCloudDrive/blob/master/doc/chapter02_lectotype.md)
 
+# hello world
+今天依然来赴约
+
 # 一点感想
 第三天，咱们如约而至。
 
