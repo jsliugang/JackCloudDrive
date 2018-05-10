@@ -25,6 +25,7 @@
 同步云盘，同步云盘首要的第一功能就是监测系统文件变化，然后才能触发增加、修改或删除操作。
 
 于是乎我们今天的计划是：
+
 ![检测文件变化](https://github.com/jzaicn/JackCloudDrive/raw/master/doc/img/%E6%A3%80%E6%B5%8B%E6%96%87%E4%BB%B6%E5%8F%98%E5%8C%96.PNG)
 
 
